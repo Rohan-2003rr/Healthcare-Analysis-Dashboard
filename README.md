@@ -5,6 +5,7 @@ Dataset Used-
 
 Question (KPIs)
 ✅ What is the total billing amount?
+
 ✅ What is the average billing amount per patient or service?
 ✅ What is the total medication cost?
 ✅ What is the average medication cost?
